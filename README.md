@@ -1,4 +1,4 @@
-# PTTSocailEngine
+# PTTSocialEngine
 ---
 ## 啟動程式
 1. 將 .env.example 複製一份，並改名成 .env，將以下內容填入
