@@ -1,0 +1,26 @@
+**/.git
+**/.DS_Store
+**/node_modules
+*.log
+Dockerfile*
+docker-compose*
+.dockerignore
+.git
+.gitignore
+.vscode
+.vscode/
+# 忽略虛擬環境目錄
+venv/
+# 忽略所有 .pyc 和 .pyo 檔案
+*.pyc
+*.pyo
+# 忽略 IDE 或編輯器的設定檔案
+.idea/
+# 忽略快取檔案或資料夾
+__pycache__/
+# 忽略結果
+result/
+analyzer/result
+log/
+
+
